@@ -2,9 +2,8 @@ name: Wb-workers
 
 
 on:
-  push-request:
+  push:
     branches: [master]
-
 
 
 
