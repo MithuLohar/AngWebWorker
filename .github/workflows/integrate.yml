@@ -19,6 +19,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Running
-        run: ng serve
+        run: npm start
       - name: Build
         run: npm run-script build
