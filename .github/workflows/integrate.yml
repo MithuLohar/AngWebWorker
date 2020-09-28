@@ -2,7 +2,7 @@ name: Wb-workers
 
 
 on:
-  pull-request:
+  push-request:
     branches: [master]
 
 
