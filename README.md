@@ -11,7 +11,8 @@ Run
 
 Run
 ![run server](/125653.png)
-for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+for a dev server. Navigate to
+![open browser](/131733.png) . The app will automatically reload if you change any of the source files.
 
 ## Build
 
