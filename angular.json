@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-web-worker"
+    }
+  },
+  "defaultProject": "ang-web-worker",
+  "cli": {
+    "analytics": "3e0d9d86-1b94-4414-9c04-58459b6d1dc9"
+  }
 }
