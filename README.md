@@ -5,17 +5,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install Dependencies
 
 Run
-![npm i](/Screenshot 2020-1016 125534.png)
+![npm i](/125534.png)
 
 ## Development server
 
 Run
-![run server](/Screenshot 2020-1016 125653.png)
+![run server](/125653.png)
 for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
-![build](/Screenshot 2020-1016 125715.png)
+![build](/125715.png)
 
 ## Running unit tests
 
