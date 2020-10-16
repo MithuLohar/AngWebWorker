@@ -20,4 +20,8 @@ for a dev server. Navigate to
 
 ![build](/125715.png)
 
+result
+
+![built files](/135545.png)
+
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
